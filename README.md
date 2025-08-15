@@ -33,20 +33,31 @@ NumPy – Array operations and data handling
 Custom Dataset – Collected and labeled images for training/validation/testing
 
 📂 Project Structure
+
 Hidden-Camera-Detector/
+
 │
-├── dataset/                  # Contains train/valid/test image folders
+├── dataset/        # Contains train/valid/test image folders      
+
 │   ├── train/
+
 │   ├── valid/
+
 │   └── test/
 │
-├── model/                    # Saved trained model file
+├── model/       # Saved trained model file
+
 │   └── hidden_camera_model.pth
+
 │
 ├── real_time_detect.py       # Real-time hidden camera detection script
+
 ├── train_model.py            # Model training script
+
 ├── utils.py                  # Helper functions
+
 ├── requirements.txt          # Python dependencies
+
 └── README.md                 # Project description
 
 📊 Dataset Information
