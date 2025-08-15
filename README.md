@@ -77,7 +77,7 @@ If a frame is classified as containing a camera, it’s displayed with a “Came
 
 📥 Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Hidden-Camera-Detector.git
+git clone https://github.com/pranoti711/Hidden-Camera-Detector.git
 cd Hidden-Camera-Detector
 
 2️⃣ Install Dependencies
